@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-shirley-dev-22839-authRole",
+            "UnauthRoleArn": "arn:aws:iam::665760541974:role/amplify-shirley-dev-22839-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::665760541974:role/amplify-shirley-dev-22839-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-shirley-dev-22839-deployment",
+            "UnauthRoleName": "amplify-shirley-dev-22839-unauthRole",
+            "StackName": "amplify-shirley-dev-22839",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:665760541974:stack/amplify-shirley-dev-22839/03474ba0-c39c-11ea-af01-06fa24220ee8",
+            "AmplifyAppId": "d2lhqw2qk5rj6s"
+        }
+    }
+}
