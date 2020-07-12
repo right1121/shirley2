@@ -11,5 +11,29 @@
             "StackId": "arn:aws:cloudformation:ap-northeast-1:665760541974:stack/amplify-shirley-dev-22839/03474ba0-c39c-11ea-af01-06fa24220ee8",
             "AmplifyAppId": "d2lhqw2qk5rj6s"
         }
+    },
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-shirley-prod-24004-authRole",
+            "UnauthRoleArn": "arn:aws:iam::665760541974:role/amplify-shirley-prod-24004-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::665760541974:role/amplify-shirley-prod-24004-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-shirley-prod-24004-deployment",
+            "UnauthRoleName": "amplify-shirley-prod-24004-unauthRole",
+            "StackName": "amplify-shirley-prod-24004",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:665760541974:stack/amplify-shirley-prod-24004/8e9b36c0-c39d-11ea-a39b-0ab0f59df27e",
+            "AmplifyAppId": "d2lhqw2qk5rj6s"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2lhqw2qk5rj6s",
+                    "type": "manual"
+                }
+            },
+            "auth": {
+                "shirley642b1ab7": {}
+            }
+        }
     }
 }
